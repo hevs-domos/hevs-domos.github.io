@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-## The coverpage
+## The domOS coverpage
 
 [Homepage](#Homepage)
 [Github](https://github.com/hevs-domos/hevs-domos.github.io)

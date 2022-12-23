@@ -1,3 +1,3 @@
 # The ecosystem
 
-Description of the domOS ecosystem.
+This is the description of the domOS ecosystem.
